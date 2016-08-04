@@ -1,1 +1,1 @@
-node['nunit']['version'] = '2.6.4'
+node['nunit']['version'] = '3.4.1'
